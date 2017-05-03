@@ -1,0 +1,10 @@
+{
+	"name": "ialphalogger",
+	"authors": [
+		"Pavel Arefiev"
+	],
+	"targetType": "sourceLibrary",
+	"description": "Basic interface for logging purposes",
+	"copyright": "Copyright © 2017, Pavel Arefiev",
+	"license": "BSD 3-clause"
+}
