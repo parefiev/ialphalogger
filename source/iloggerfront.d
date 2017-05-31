@@ -1,6 +1,4 @@
-import loglevel;
-
-interface ILogger
+interface ILoggerFront
 {
 	void info(string);
 	void debug_(string);
@@ -10,6 +8,5 @@ interface ILogger
 	void error(string);
 	void warning(string);
 	void notice(string);
-	void log(LogLevel, string);
 }
 
